@@ -1,4 +1,4 @@
-# Low Speed Aerodynamics (LSA) Mentorship Program ✈️
+# Low Speed Aerodynamics (LSA) ✈️
 
 Welcome to the 8-Week Low Speed Aerodynamics Mentorship repository! This project is designed to provide a structured, hands-on journey from the foundational equations of fluid motion to advanced computational aerodynamic methods.
 
